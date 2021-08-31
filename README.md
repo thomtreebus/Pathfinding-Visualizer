@@ -11,5 +11,14 @@ Visual representation of the A* pathfinding algorithm using Python
    ```
       py astar.py
    ```
+   
+<ul>
+  <li>Click on a spot in the grid to create a start point</li>
+  <li>Click on another spot to create an end point</li>
+  <li>Hold down the left mouse button and draw barriers</li>
+  <li>Use the right mouse button to delete barriers or the start/end points</li>
+  <li>Press SPACEBAR to start the pathfinding algorithm</li>
+  <li>Press C to clear the grid</li>
+</ul>   
 
   
