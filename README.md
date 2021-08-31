@@ -6,9 +6,10 @@ Visual representation of the A* pathfinding algorithm using Python
   <li>Download the python file </li>
   <li>Make sure you have Python and Pygame installed: https://www.pygame.org/wiki/GettingStarted  </li>
   <li>Open a terminal in the same directory as the file and run the command:</li>
+</ul>
+
    ```
       py astar.py
-      ```
-</ul>
+   ```
 
   
