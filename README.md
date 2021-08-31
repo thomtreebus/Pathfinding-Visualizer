@@ -1,5 +1,7 @@
 # Pathfinding-Visualizer
-Visual representation of the A* pathfinding algorithm using Python
+A visual implementation of the A* pathfinding algorithm. 
+
+<p>I created this pathfinding program using Python and Pygame. The program launches a window that contains a grid of nodes. A user can select a starting node and an ending node. They can also place barriers on the grid. The pathfinding algorithm will then find the shortest path between the two nodes and visualy show each step. </p>
 
 <h1>Instructions</h1>
 <ul>
